@@ -1,4 +1,3 @@
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443/?sni=hopp-legend-se.roxa.org#Norway%20%F0%9F%87%B3%F0%9F%87%B4
 ss://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-no-ws%5D%20%5B260728-233757.459%5D
 ss://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5B%F0%9F%87%B5%F0%9F%87%B1%5D%20%5Bvl-no-ws%5D%20%5B260728-234008.303%5D
 ss://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?&security=false&fp=chrome&type=ws&headerType=none&host=uae.unixzone.us&path=%2F#%5B%F0%9F%87%A6%F0%9F%87%AA%5D%20%5Bvl-no-ws%5D%20%5B260728-234012.868%5D
