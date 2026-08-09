@@ -3,6 +3,7 @@ hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?sni=iq5ny.
 hy2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?sni=host-vds2-fr.kvncococ.org#法国
 hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086/?insecure=1&sni=fr2.xiaoliyu.cyou&obfs=salamander&obfs-password=T@T*FP7uq=!t#法国
 hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@129.151.250.154:35000?insecure=1&sni=www.lamer.com.hk#%E6%B3%95%E5%9B%BD
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Fclashv8%F0%9F%87%A8%F0%9F%87%B3#France%20%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086?insecure=1&sni=fr2.xiaoliyu.cyou&obfs=salamander&obfs-password=T@T*FP7uq=!t#%E6%B3%95%E5%9B%BD%20%231
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=jetfr228.global.ssl.fastly.net&amp;type=xhttp#France%200VH
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
@@ -152,6 +153,7 @@ trojan://ND91608427@star-kiwi.rooster465.autos:443?allowInsecure=0&sni=star-kiwi
 trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls&sni=star-kiwi.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.49.244-0191
 trojan://NQ26071394@35.181.65.111:443?type=tcp&security=tls&headerType=none&sni=ready-kangaroo.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0#FR🇫🇷
 trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#FR🇫🇷
+trojan://QV31589740@51.44.160.58:443?fp=chrome&sni=great-krill.rooster465.autos#🇫🇷FR-🚀@VPNine1
 trojan://QV31589740@great-krill.rooster465.autos:443#FR🇫🇷
 trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0#FR🇫🇷
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.160.58-0107
