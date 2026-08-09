@@ -274,6 +274,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.238.157:22222?encryption=none&s
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.87.82:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA138517%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.80.223:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.197.53:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
@@ -639,6 +640,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.238.157:22222?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.87.82:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA138517%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.80.223:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.197.53:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
