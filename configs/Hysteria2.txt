@@ -577,8 +577,6 @@ hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52009?security=tls&obfs=s
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52009?security=tls&obfs=salamander&alpn=h3&obfs-password=kf1lypzqidy6pimt&insecure=0&sni=assets.gateway-stream.com#🌐سرور
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?insecure=0&sni=&obfs=salamander&obfs-password=txwr28j1lntoy0sj#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1%20%231
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=txwr28j1lntoy0sj#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1%20%232
-hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=#
-hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=#EPODONIOS
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=#🌐سرور
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=assets.gateway-stream.com#
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE144216%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
