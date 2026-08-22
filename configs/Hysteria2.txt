@@ -334,6 +334,7 @@ hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.78:8443?sni=hopp-net
 hysteria2://P6qkAwznuC076mbIR2cGPg%3D%3D@43.156.90.144:34567?insecure=1&sni=bing.com#%F0%9F%87%B8%F0%9F%87%ACSG
 hysteria2://StableInternet@ptserv.accuratenetworkchecker.ir:36896?security=tls&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&insecure=0&sni=lms22.gelzaro.ir#
 hysteria2://StableInternet@ptserv.accuratenetworkchecker.ir:36896?security=tls&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&insecure=0&sni=lms22.gelzaro.ir#@Iran_v2ray1
+hysteria2://StableInternet@ptserv.accuratenetworkchecker.ir:36896?security=tls&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&insecure=0&sni=lms22.gelzaro.ir#EPODONIOS
 hysteria2://T%24me%24V2RayyNGvpn@70.34.205.15:443?sni=www.wordreference.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=T.me%24V2RayyNGvpn#
 hysteria2://Telegram%40vpnjey@31.76.27.23:37009?insecure=1&alpn=h3&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey
 hysteria2://Telegram%40vpnjey@77.110.96.201:36264?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%231
