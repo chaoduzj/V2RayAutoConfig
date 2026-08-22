@@ -189,7 +189,6 @@ trojan://FH72359861@casual-stallion.rooster465.autos:443?allowInsecure=0&sni=cas
 trojan://FH72359861@champion-panther.rooster465.autos:443?allowInsecure=0&sni=champion-panther.rooster465.autos#JP-57.180.38.121-0204
 trojan://FH72359861@classic-pug.rooster465.autos:443?allowInsecure=0&sni=classic-pug.rooster465.autos#JP-13.231.237.228-0220
 trojan://FH72359861@communal-troll.rooster465.autos:443?allowInsecure=0&sni=communal-troll.rooster465.autos#JP-54.168.208.137-0233
-trojan://FH72359861@content-rabbit.rooster465.autos:443?security=tls&sni=content-rabbit.rooster465.autos#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://FH72359861@content-rabbit.rooster465.autos:443?security=tls&sni=content-rabbit.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://FH72359861@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-85.234.83.27-0112
 trojan://FH72359861@emerging-porpoise.rooster465.autos:443?allowInsecure=0&sni=emerging-porpoise.rooster465.autos#JP-54.248.168.53-0226
