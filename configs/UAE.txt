@@ -9,6 +9,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:806#%F0%9F%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:809#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-2732
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:810#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-3112
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443/?type=tcp&security=tls#Dubai%20%28United%20Arab%20Emirates%29
+trojan://humanity@176.97.66.175:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#AE%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9115
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@162.35.231.6:443?security=reality&encryption=none&pbk=O4of5fbG7Ns3fBdBF0bDU8Fa8q-mdk7YLgOgvAWPeF8&headerType=none&type=tcp&sni=media2.tcpdoor.net&sid=f85aebea#REALITY|AE🇦🇪
 vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?security=reality&encryption=none&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=grpc&serviceName=TunService&sni=download.nvidia.com#REALITY|AE🇦🇪
 vless://419f25c1-bc35-412e-93fb-258efee859b5@162.35.231.31:443?security=reality&encryption=none&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=162.35.231.31.sslip.io&sid=f41bc0b00ca1a978#REALITY|AE🇦🇪
