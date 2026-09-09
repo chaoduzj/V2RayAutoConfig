@@ -53,7 +53,6 @@ ssr://api.meituan88.com:41181:auth_aes128_md5:chacha20-ietf:plain:ZGkxNVBW/?obfs
 ssr://api.meituan88.com:53465:auth_aes128_md5:rc4-md5:plain:ZGkxNVBW/?obfsparam=ODdjMjc2OTI0LmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTQ5Mzk%3D&protoparam=#
 ssr://api.meituan88.com:59382:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=OTllMTQ0MzkxLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTQ5NDE%3D&protoparam=#
 ssr://api.meituan88.com:59430:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=OTllMTQ0MzkxLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTQ5NTI%3D&protoparam=#
-ssr://api.meituan88.com:61714:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_authZGkxNVBWremarks=8J-HufCfh7xUV18yfDQuOE1CL3M=&obfsparam=MzNmMzEzNzIzLmRvdXlpbi5jb20=&protoparam=MzEzNzIzOmRDd3JuaQ==
 ssr://api.meituan88.com:7004:auth_aes128_md5:chacha20-ietf:tls1.2_ticket_auth:ZGkxNVBW/?obfsparam=NjY1MjAzNDYzLmRvdXlpbi5jb20%3D&remarks=8J%2BHrfCfh7BISy00My4yNTUuMTE5LjI4LTQ5Mzg%3D&protoparam=#
 ssr://bGl2ZS5iaWxpYmlsaWNsb3VkMDEuY29tOjU0MTEyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpUWFkwWlRCUlNGZFFkMlJpUzJsRFJnPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhyJTJGQ2ZoN1ZLVUMwME15NHlNRGN1TmpBdU16WXRNREkyTUElM0QlM0QmcHJvdG9wYXJhbT0=
 ssr://bGl2ZS5iaWxpYmlsaWNsb3VkMDEuY29tOjU0MTEzOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpUWFkwWlRCUlNGZFFkMlJpUzJsRFJnPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhyJTJGQ2ZoN1ZLVUMweE9DNHhOemN1TVRReUxqTXlMVFE1TmpJJTNEJnByb3RvcGFyYW09
