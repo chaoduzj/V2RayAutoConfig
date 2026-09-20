@@ -31,7 +31,6 @@ ss://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.27.7.125:443/?type=ws&encryption=n
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@51.38.226.4:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@54.36.99.234:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
-ss://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@hyhkup.mervi.icu:443?&security=reality&flow=xtls-rprx-vision&pbk=EEMZb6c0SADcplLXt8-rTAZYaH-s0o9pXG1daNegzww&sid=18b63521daeda630&fp=chrome&sni=hyhkup.mervi.icu&type=tcp&headerType=none&host=hyhkup.mervi.icu&path=%2F#%E6%B3%95%E5%9B%BD%20%7C%20FRA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YW5HdG91ODZ2R0I3cjFsT201bjhn@162.19.208.118:50285#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+162.19.208.118-50285+%7C+156.08ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+54.36.174.134-443+%7C+167.96ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N09uREVaWUdqYTQ=@178.18.244.2:443#%F0%9F%87%AB%F0%9F%87%B7FR-178.18.244.2-5706
@@ -315,7 +314,6 @@ vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.27.7.125:443/?type=ws&encryptio
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.59.121.150:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@51.38.226.4:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@54.36.99.234:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#FR🇫🇷
-vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@hyhkup.mervi.icu:443?&security=reality&flow=xtls-rprx-vision&pbk=EEMZb6c0SADcplLXt8-rTAZYaH-s0o9pXG1daNegzww&sid=18b63521daeda630&fp=chrome&sni=hyhkup.mervi.icu&type=tcp&headerType=none&host=hyhkup.mervi.icu&path=%2F#%E6%B3%95%E5%9B%BD%20%7C%20FRA
 vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2843%29
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443/?type=grpc&encryption=none&sni=api.github.com&security=reality&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A68.38ms
