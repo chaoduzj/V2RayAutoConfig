@@ -1,4 +1,3 @@
-ss://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@85.137.165.97:443?&security=tls&fp=chrome&sni=kclx.eu.org&type=ws&headerType=none&host=kclx.eu.org&path=%2F154.16.10.34-8080#CZ%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%916
 ss://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#REALITY|CZ🇨🇿
 ss://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#REALITY|CZ🇨🇿
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@80.211.205.173:8443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.ye.gs&sni=snippet.fgfw.ye.gs&fp=random#CZ🇨🇿
@@ -10,7 +9,6 @@ ss://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443/?type=tcp&encryptio
 ss://chacha20ietfpoly1305Og==@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+108.83ms
 ss://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@45.146.90.85:443?sni=www.amazon.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%BF%5Bwww.v2nodes.com%5D%20vless-CZ-1...
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-2675
-vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@85.137.165.97:443?&security=tls&fp=chrome&sni=kclx.eu.org&type=ws&headerType=none&host=kclx.eu.org&path=%2F154.16.10.34-8080#CZ%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%916
 vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#REALITY|CZ🇨🇿
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#REALITY|CZ🇨🇿
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@80.211.205.173:8443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.ye.gs&sni=snippet.fgfw.ye.gs&fp=random#CZ🇨🇿
