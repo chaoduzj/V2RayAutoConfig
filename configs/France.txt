@@ -105,9 +105,7 @@ ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&en
 ss://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443/?type=grpc&encryption=none&sni=api.github.com&security=reality&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A68.38ms
 ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#FR🇫🇷
 ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.50.105.60:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#FR🇫🇷
-ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@217.19.4.61:443?&security=tls&fp=chrome&sni=bab-6.site&type=ws&headerType=none&host=bab-6.site&path=%2Fvws%2F#%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%231%203
 ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@217.19.4.61:443?sni=bab-6.site&type=ws&host=bab-6.site&path=/vws/fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%231
-ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@85.192.60.46:443?&security=tls&fp=chrome&sni=bab-6.site&type=ws&headerType=none&host=bab-6.site&path=%2Fvws%2F#%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%233%203
 ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@85.192.60.46:443?sni=bab-6.site&type=ws&host=bab-6.site&path=/vws/fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%233
 ss://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.110:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#REALITY|FR🇫🇷
 ss://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#REALITY|FR🇫🇷
@@ -157,7 +155,6 @@ trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sn
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8347
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.61.209-3064
 trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.76.177-3244
-trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls#🇫🇷FR-🚀@VPNine1
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@62.210.254.72:28443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-62.210.254.72-3617
 trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?security=tls&sni=nika2.hdfy2.foriran.trade&type=grpc&serviceName=M9hnxw1wCQSfVHaiznU#%F0%9F%87%AB%F0%9F%87%B7FR-95.179.217.221-7681
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.59.186-7606
@@ -165,7 +162,6 @@ trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni
 trojan://AE62539071@13.39.249.40:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.249.40-5713
 trojan://AE62539071@13.39.249.40:443?security=tls#FR🇫🇷
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-2102
-trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#🇫🇷FR-🚀@VPNine1
 trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8345
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-7729
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-7727
@@ -310,9 +306,7 @@ vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none
 vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443/?type=grpc&encryption=none&sni=api.github.com&security=reality&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FRoubaix%F0%9F%85%BF%EF%B8%8Fping%3A68.38ms
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#FR🇫🇷
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.50.105.60:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#FR🇫🇷
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@217.19.4.61:443?&security=tls&fp=chrome&sni=bab-6.site&type=ws&headerType=none&host=bab-6.site&path=%2Fvws%2F#%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%231%203
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@217.19.4.61:443?sni=bab-6.site&type=ws&host=bab-6.site&path=/vws/fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%231
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@85.192.60.46:443?&security=tls&fp=chrome&sni=bab-6.site&type=ws&headerType=none&host=bab-6.site&path=%2Fvws%2F#%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%233%203
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@85.192.60.46:443?sni=bab-6.site&type=ws&host=bab-6.site&path=/vws/fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%233
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.110:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#REALITY|FR🇫🇷
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#REALITY|FR🇫🇷
