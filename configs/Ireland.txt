@@ -17,7 +17,6 @@ trojan://Trojan%4082164024@ie.tronsg.com:443#IE🇮🇪
 trojan://Trojan%4082164024@ie.tronsg.com:443?allowInsecure=1&sni=ie.tronsg.com#IE🇮🇪
 trojan://Trojan%4082164024@ie.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ie.tronsg.com#IE🇮🇪
 trojan://Trojan@82164024@ie.tronsg.com:443?sni=ie.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#IE🇮🇪
-trojan://UX82473651@3.253.106.233:443?allowInsecure=0&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20trojan-IE-...%20%232
 trojan://UX82473651@3.253.106.233:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0472
 trojan://UX82473651@34.242.77.118:443?fp=chrome&sni=sacred-anemone.rooster465.autos#IE🇮🇪
 trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0&sni=adapting-basilisk.rooster465.autos#IE-54.72.130.222-0115
@@ -40,6 +39,7 @@ trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=0&sni=loved-s
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=0&sni=loved-shark.rooster465.autos#IE-3.253.106.233-0198
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1#IE🇮🇪
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0220
+trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20trojan-IE-...%20%231
 trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1#IE🇮🇪
 trojan://UX82473651@sacred-anemone.rooster465.autos:443#IE🇮🇪
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?allowInsecure=0&sni=sacred-anemone.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-IE-...%20%231
@@ -50,7 +50,6 @@ trojan://UX82473651@sacred-anemone.rooster465.autos:443?allowInsecure=0&sni=sacr
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?allowInsecure=0&sni=sacred-anemone.rooster465.autos#IE-34.242.77.118-0190
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.77.118-0213
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#IE🇮🇪
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20trojan-IE-...%20%231
 trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-7770
 trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-7772
 trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-7789
