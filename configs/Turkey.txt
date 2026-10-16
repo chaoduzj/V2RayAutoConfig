@@ -10,10 +10,6 @@ ss://510ffb52-423b-4999-ad81-2d1a9ba8d23b@a6.mobilleali.ir:443?encryption=none&s
 ss://6729386e-3481-41e8-a536-6cf5e17198ec@trn18.moon-night.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=08#REALITY|TR🇹🇷
 ss://7f11d97b-b29c-40bc-abfe-b8a2ad4b7dbb@185.157.217.4:8443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=random&headerType=none&pbk=X44dpyHVDlpzQMouk4RGzREF8OEL1XoPBCf6oY-EsmI&security=reality&sid=d346e1a7eb724050&sni=play.google.com&type=tcp#REALITY|TR🇹🇷
 ss://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%232
-ss://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?&security=false&fp=chrome&type=tcp&headerType=none&host=test.keoplentuio.xyz&path=%2F#%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%232
-ss://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?&security=false&fp=chrome&type=tcp&headerType=none&host=test.keoplentuio.xyz&path=%2F#%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%234
-ss://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?&security=false&fp=chrome&type=tcp&headerType=none&host=test.keoplentuio.xyz&path=%2F#%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%234%202
-ss://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?&security=false&fp=chrome&type=tcp&headerType=none&host=test.keoplentuio.xyz&path=%2F#%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%234%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+38.180.105.12-443+%7C+122.8ms
 ss://ZoRoVPN@203.202.232.11:36068/?type=ws&encryption=none&host=Play.google.com&path=%2FZoRoVpn#%F0%9F%87%B9%F0%9F%87%B7TR-%F0%9F%9A%80%40VPNine1%20%282%29
 ss://bf155a74-0560-46ff-ba40-9c8d34917f0e@tr.xelnivo.ir:5589?security=reality&encryption=none&pbk=rlWw1txOKfyTIegqGc5YUQo1CxqZEXBPeQZppA6H014&headerType=none&fp=firefox&spx=%2Flink&type=tcp&sni=play.google.com&sid=8f798d413a5dbf01#REALITY|TR🇹🇷
@@ -35,10 +31,6 @@ vless://510ffb52-423b-4999-ad81-2d1a9ba8d23b@a6.mobilleali.ir:443?encryption=non
 vless://6729386e-3481-41e8-a536-6cf5e17198ec@trn18.moon-night.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=08#REALITY|TR🇹🇷
 vless://7f11d97b-b29c-40bc-abfe-b8a2ad4b7dbb@185.157.217.4:8443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=random&headerType=none&pbk=X44dpyHVDlpzQMouk4RGzREF8OEL1XoPBCf6oY-EsmI&security=reality&sid=d346e1a7eb724050&sni=play.google.com&type=tcp#REALITY|TR🇹🇷
 vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%232
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?&security=false&fp=chrome&type=tcp&headerType=none&host=test.keoplentuio.xyz&path=%2F#%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%232
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?&security=false&fp=chrome&type=tcp&headerType=none&host=test.keoplentuio.xyz&path=%2F#%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%234
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?&security=false&fp=chrome&type=tcp&headerType=none&host=test.keoplentuio.xyz&path=%2F#%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%234%202
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?&security=false&fp=chrome&type=tcp&headerType=none&host=test.keoplentuio.xyz&path=%2F#%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%234%203
 vless://ZoRoVPN@203.202.232.11:36068/?type=ws&encryption=none&host=Play.google.com&path=%2FZoRoVpn#%F0%9F%87%B9%F0%9F%87%B7TR-%F0%9F%9A%80%40VPNine1%20%282%29
 vless://bf155a74-0560-46ff-ba40-9c8d34917f0e@tr.xelnivo.ir:5589?security=reality&encryption=none&pbk=rlWw1txOKfyTIegqGc5YUQo1CxqZEXBPeQZppA6H014&headerType=none&fp=firefox&spx=%2Flink&type=tcp&sni=play.google.com&sid=8f798d413a5dbf01#REALITY|TR🇹🇷
 vless://c1c95983-50a7-44b1-99ac-a062284939d0@2.26.171.40:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=kelvra.pro&sid=44103f58#REALITY|TR🇹🇷
