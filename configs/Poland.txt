@@ -1,3 +1,8 @@
+ss://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#%5Bwww.v2nodes.com%5D%20vless-PL-4...
+ss://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%237
+ss://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-PL-4...%202
+ss://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-PL-4...%203
+ss://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-PL-4...%204
 ss://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=random&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-4...
 ss://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%238
 ss://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%232
@@ -11,6 +16,7 @@ ss://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443/?type=raw&encryptio
 ss://47ec2037-4d21-453b-9c10-0c827ce998a8@64.176.73.210:15667/?type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1%C2%AE%EF%B8%8FPoland%C2%A9%EF%B8%8FWarsaw%F0%9F%85%BF%EF%B8%8Fping%3A36ms
 ss://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%913
 ss://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20%7C%20POL%20%231
+ss://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.41.20:443?security=tls&type=ws&path=%2Ffp%3Dunsafe&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%E6%B3%A2%E5%85%B0+V2CROSS.COM
 ss://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#🆔surfboardv2ray%20🔒%20VL-TCP-%20🇵🇱%20PL%20120ms
 ss://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?security=reality&encryption=none&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=46455ff0#REALITY|PL🇵🇱
 ss://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl.flen-vpn.xyz#PL🇵🇱
@@ -141,15 +147,9 @@ trojan://3BLPOJr3OY@pl.scpnb.top:50191?mode=gun&security=reality&pbk=wJIhXHD_EuO
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?allowInsecure=1#PL🇵🇱
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?allowInsecure=1&sni=pl2.dedushka.top#PL🇵🇱
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?allowInsecure=1#PL🇵🇱
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&sni=pl1.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Poznan%20%28Je%C5%BCyce%29%20%7C%20%5BBL%5D
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=pl1.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Poznan%20%28Je%C5%BCyce%29%20%7C%20%5BBL%5D
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl1.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Poznan%20%28Je%C5%BCyce%29%20%7C%20%5BBL%5D
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl1.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Poznan%20%28Je%C5%BCyce%29%20%7C%20%5BBL%5D
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1PL-31.133.0.182-0131
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?sni=pl1.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20trojan-PL-...
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?allowInsecure=1#PL🇵🇱
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Poznan%20%28Je%C5%BCyce%29%20%7C%20%5BBL%5D
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Poznan%20%28Je%C5%BCyce%29%20%7C%20%5BBL%5D
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#PL🇵🇱
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#PL🇵🇱
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=pl2.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1PL-31.133.0.186-0123
@@ -174,6 +174,11 @@ trojan://humanity@216.24.57.7:443/?type=ws&host=www.creationlong.org&path=%2Fass
 trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443/?type=tcp&security=tls#Warsaw%20%28Poland%29%20%282%29
 trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.75.134:443/?type=tcp&security=tls#Warsaw%20%28Poland%29%20%281%29
 trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.75.215:443/?type=tcp&security=tls#Warsaw%20%28Poland%29
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#%5Bwww.v2nodes.com%5D%20vless-PL-4...
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%237
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-PL-4...%202
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-PL-4...%203
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.comfp%3Drandom#%5Bwww.v2nodes.com%5D%20vless-PL-4...%204
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=random&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-4...
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%238
 vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%232
@@ -187,6 +192,7 @@ vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443/?type=raw&encryp
 vless://47ec2037-4d21-453b-9c10-0c827ce998a8@64.176.73.210:15667/?type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1%C2%AE%EF%B8%8FPoland%C2%A9%EF%B8%8FWarsaw%F0%9F%85%BF%EF%B8%8Fping%3A36ms
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#PL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%913
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20%7C%20POL%20%231
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.41.20:443?security=tls&type=ws&path=%2Ffp%3Dunsafe&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%E6%B3%A2%E5%85%B0+V2CROSS.COM
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#🆔surfboardv2ray%20🔒%20VL-TCP-%20🇵🇱%20PL%20120ms
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?security=reality&encryption=none&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=46455ff0#REALITY|PL🇵🇱
 vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl.flen-vpn.xyz#PL🇵🇱
