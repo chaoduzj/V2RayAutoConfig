@@ -110,7 +110,6 @@ trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#%
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjadly.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%E4%B8%AD%E5%9B%BD%20-%20%E9%A6%99%E6%B8%AF%20-%204
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmlxy.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%E4%B8%AD%E5%9B%BD%20-%20%E9%A6%99%E6%B8%AF%20-%205
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjterq.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%E4%B8%AD%E5%9B%BD%20-%20%E9%A6%99%E6%B8%AF%20-%207
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?allowInsecure=0&sni=tjtw.m2k699.com#%E4%B8%AD%E5%9B%BD%20-%20%E5%8F%B0%E6%B9%BE%20-%202
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjxg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%E4%B8%AD%E5%9B%BD%20-%20%E9%A6%99%E6%B8%AF%20-%203
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjyg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%E4%B8%AD%E5%9B%BD%20-%20%E9%A6%99%E6%B8%AF%20-%208
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjyn.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%E4%B8%AD%E5%9B%BD%20-%20%E9%A6%99%E6%B8%AF%20-%206
@@ -128,7 +127,6 @@ trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10825?security=tls#%F
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10826?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.4-5443
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10822?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.5-5446
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10823?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.5-5445
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10826?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.5-0206
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10826?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.5-0274
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10820?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-5423
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10822?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-5433
