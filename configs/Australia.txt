@@ -7,7 +7,6 @@ ss://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=real
 ss://62c82c17-c70f-000f-95e4-e52a67a435ef@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=cloud.nimhogoa.com#REALITY|AU🇦🇺
 ss://62c82c17-c70f-000f-95e4-e52a67a435ef@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=cloud.nimhogoa.com&sid=99181028b56c8702#REALITY|AU🇦🇺
 ss://62c82c17-c70f-002d-95e4-e52a67a435ef@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=firefox&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=workspace.sablefrost.com#REALITY|AU🇦🇺
-ss://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-AU-2...%20%231%203
 ss://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-AU-1...%20%232
 ss://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chromesecurity=tls#%F0%9F%87%A6%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-AU-2...%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A6%F0%9F%87%BA%C2%AE%EF%B8%8FAustralia%C2%A9%EF%B8%8FPort%20Melbourne%F0%9F%85%BF%EF%B8%8Fping%3A295.02ms
@@ -30,8 +29,9 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=0&sni=c
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=0&sni=connectwithemployerstohireyouridealteam.com#%5Bwww.v2nodes.com%5D%20trojan-AU-...%202
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=0&sni=connectwithemployerstohireyouridealteam.com#%5Bwww.v2nodes.com%5D%20trojan-AU-...%203
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=0&sni=connectwithemployerstohireyouridealteam.com#%5Bwww.v2nodes.com%5D%20trojan-AU-...%204
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=0&sni=connectwithemployerstohireyouridealteam.com#AU-45.63.30.142-0125
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=0&sni=connectwithemployerstohireyouridealteam.com#AU-45.63.30.142-0148
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0125
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20trojan-AU-...
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-1755
 trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#%F0%9F%87%A6%F0%9F%87%BAAU-170.64.130.150-2310
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-162.4.84.241-5020
@@ -54,7 +54,6 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=r
 vless://62c82c17-c70f-000f-95e4-e52a67a435ef@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=cloud.nimhogoa.com#REALITY|AU🇦🇺
 vless://62c82c17-c70f-000f-95e4-e52a67a435ef@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=cloud.nimhogoa.com&sid=99181028b56c8702#REALITY|AU🇦🇺
 vless://62c82c17-c70f-002d-95e4-e52a67a435ef@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=firefox&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=workspace.sablefrost.com#REALITY|AU🇦🇺
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-AU-2...%20%231%203
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-AU-1...%20%232
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chromesecurity=tls#%F0%9F%87%A6%F0%9F%87%BA%5Bwww.v2nodes.com%5D%20vless-AU-2...%20%231
 vless://aca32055-db88-4634-b623-6429ddbb6c93@54.252.231.115:55292/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=kPx16abMZD2x6dv7NW_hn1HSc2P8RsPptytcCT-neQs&sid=bd711c02c8dc9955#-%3EAU%2B%28%40DeamNet_Proxy%29%20%283%29
