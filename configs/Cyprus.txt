@@ -1,5 +1,6 @@
 ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Cyprus%20WorkTitans
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#Cyprus%20Dedipath
+ss://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#_%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%20%282%29
 ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443/?type=ws&encryption=none&flow=&host=gb-8981.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-8981.shenzogmbh.com&fp=chrome#CY%F0%9F%87%A8%F0%9F%87%BE
 ss://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.55.167.133:443?security=reality&encryption=none&pbk=XSh3jB8zXtqpI38glgwN2Bn5imxN8Rkyc39LeBSD8BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cy1.gofizz.in&sid=24f1fa53275b#REALITY|CY🇨🇾
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.148.135.31:990#Cyprus%20BrainStorm
@@ -14,6 +15,7 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#%
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.237-3910
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Cyprus%20WorkTitans
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#Cyprus%20Dedipath
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#_%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%20%282%29
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443/?type=ws&encryption=none&flow=&host=gb-8981.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-8981.shenzogmbh.com&fp=chrome#CY%F0%9F%87%A8%F0%9F%87%BE
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.55.167.133:443?security=reality&encryption=none&pbk=XSh3jB8zXtqpI38glgwN2Bn5imxN8Rkyc39LeBSD8BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cy1.gofizz.in&sid=24f1fa53275b#REALITY|CY🇨🇾
 vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?encryption=none&fp=firefox&mode=auto&path=%2Fmedia%2Fe1c76c&security=tls&sni=m.yourvibe.my&type=xhttp#CY🇨🇾
