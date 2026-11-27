@@ -5,6 +5,7 @@ ss://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?#%F0%9F%87%A7%F0
 ss://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%231
 ss://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%231%202
 ss://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-BY-1...%202
+ss://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#BY🇧🇾
 ss://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.wikihow.com&fp=chrome&security=reality&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A7%F0%9F%87%BE%C2%AE%EF%B8%8FBelarus%C2%A9%EF%B8%8FMinsk%F0%9F%85%BF%EF%B8%8Fping%3A36.71ms
 ss://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?path=%2Fvless&security=none&encryption=none&host=178.172.227.228&type=ws#BY🇧🇾
 ss://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...
@@ -17,6 +18,7 @@ vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?#%F0%9F%87%A7
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%231
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-BY-1...%20%231%202
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%5Bwww.v2nodes.com%5D%20vless-BY-1...%202
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#BY🇧🇾
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.wikihow.com&fp=chrome&security=reality&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A7%F0%9F%87%BE%C2%AE%EF%B8%8FBelarus%C2%A9%EF%B8%8FMinsk%F0%9F%85%BF%EF%B8%8Fping%3A36.71ms
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?path=%2Fvless&security=none&encryption=none&host=178.172.227.228&type=ws#BY🇧🇾
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#%F0%9F%87%A7%F0%9F%87%BE%5Bwww.v2nodes.com%5D%20vless-BY-1...
